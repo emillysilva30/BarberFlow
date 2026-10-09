@@ -1,0 +1,31 @@
+Documento de Visão e Escopo
+
+1. Informações Gerais
+Nome do Projeto: BarberFlow
+Equipe: Emilly Estefanny da Silva, Gabriel Ângelo, Tatiana Dantas Soares e Luna Santamaria
+Data da Última Atualização: 09/10/2026
+
+2. Problema e Nicho de Mercado
+Qual é o problema que o software resolve? Soluciona comflitos de horario evitando filas de espera na barbearia
+Quem é o público-alvo? Profissionais da barbearia e clientes finais
+
+3. Descrição da Solução
+O que é o produto? Sistema web de agedamentos que permite organizar clientes, barbeiros, serviços e horários disponíveis. O sistema possibilita agendar,
+consultar, cancelar e remarcar horários, facilitando o controle da agenda e a organização dos atendimentos.
+Principais Benefícios: Redução do tempo de espera: permite agendar um horário antecipadamente,
+evitando longas filas em barbearias que atendem por ordem de chegada.
+
+
+
+Praticidade: possibilita realizar agendamentos online sem precisar ligar ou ir até a barbearia.
+
+
+
+Escolha de horários: permite consultar a disponibilidade e escolher o horário mais conveniente.
+4. Escopo do Projeto (O que SERÁ feito)
+[Funcionalidade 1 - Ex: Cadastro de usuários com autenticação]
+[Funcionalidade 2 - Ex: Agendamento de horários]
+[Funcionalidade 3 - Ex: Geração de relatórios de faturamento]
+5. Fora do Escopo (O que NÃO será feito nesta versão)
+[Ex: Integração com meios de pagamento (PIX/Cartão)]
+[Ex: Aplicativo nativo para iOS (será apenas Web Responsivo)]
