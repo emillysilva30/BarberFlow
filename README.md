@@ -13,7 +13,7 @@ O projeto está inserido no setor de beleza e cuidados pessoais, com foco em bar
 
 ## 3. Equipe e Papéis Iniciais
 
-| Integrante | Papel inicial |
+| Integrantes | Papeis iniciais |
 |---|---|
 | Emilly Estefanny da Silva | Product Owner (PO) |
 | Gabriel Ângelo Xavier De Araújo | Scrum Master|
