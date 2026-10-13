@@ -12,7 +12,7 @@ Definir o projeto BarberFlow, estabelecer os cargos e as responsabilidades dos i
 |---|---|---|---|---|
 | DOC01 | Criação do repositório | Criação do repositório do BarberFlow no GitHub para armazenar e organizar os arquivos do projeto. | Concluído | [Repositório BarberFlow](https://github.com/emillysilva30/BarberFlow) |
 | DOC02 | Documentação do projeto | Criação do arquivo README.md com a apresentação e as informações iniciais do projeto. | Concluído | [README.md](https://github.com/emillysilva30/BarberFlow/blob/main/README.md) |
-| DOC03 | Documento de Visão e Escopo | Elaboração do Documento de Visão e Escopo, definindo o problema, os objetivos, o público-alvo, a solução proposta e os limites do projeto. | Concluído | [Visão e Escopo](https://github.com/emillysilva30/BarberFlow/blob/main/Visao_e_Escopo.docx) |
+| DOC03 | Documento de Visão e Escopo | Elaboração do Documento de Visão e Escopo, definindo o problema, os objetivos, o público-alvo, a solução proposta e os limites do projeto. | Concluído | [Visão e Escopo](https://github.com/emillysilva30/BarberFlow/blob/main/Visao_e_Escopo.md) |
 
 ## 3. O que não foi entregue (Dívida Técnica)
 
